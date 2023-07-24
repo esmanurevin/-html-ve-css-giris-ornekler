@@ -12,4 +12,5 @@ Beşinci uygulamam burada web sayfasına giriş tasarımı yaptık.
 # STADYUM UYGULAMASI
 Altıncı uygulamam burada tasarım yapmak istedim tekrardan katkı sağlasın diye css ve html kullanımına.
 # TABLO UYGULAMASI
+Yedinci uygulamam burada örnek tablo kullanımı var.Resimli tablo kullanımı renkler colspan ve rowspan kullanımı.
 
